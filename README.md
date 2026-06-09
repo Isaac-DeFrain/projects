@@ -20,6 +20,11 @@ I have an insatiable passion for learning about and building open source, decent
 
 > Smart Contract & Formal Verifictaion Engineer
 
+- Implemented Proof of Stake consensus based on GHOST
+- Implemented dynamically dispatchable smart contracts
+- Specified and verified K Framework specification of Rholang smart contract language
+- Specified and verified TLA+ specification of CBC Casper consensus
+
 ## Personal Projects
 
 ### [SCOTUS helper](https://scotus-helper.com)
