@@ -45,11 +45,11 @@ _Smart Contract & Formal Verifictaion Engineer_
 - [Website](https://scotus-helper.com)
 - [Source code](https://github.com/Isaac-DeFrain/scotus-helper)
 
-<img src="https://opengraph.githubassets.com/e1a47d64284e2918fbda0f0f92d7f20c8009630415ba493bbd13829faa0acb18/Isaac-DeFrain/scotus-helper" width="50%" alt="SCOTUS helper" />
+<img src="https://opengraph.githubassets.com/06ebd157d0f0c29cdff0c6a4c997c0fa68f0789e9aa41a94bd004a479ee60d4e/Isaac-DeFrain/scotus-helper" width="50%" alt="SCOTUS helper" />
 
 ### Blog
 
-> I also deploy this app on GitHub Pages as my personal blog.
+> I deploy this app via GitHub Pages as my personal blog.
 
 - [Website](https://blog.isaacdefrain.com)
 - [Source code](https://github.com/Isaac-DeFrain/blog)
