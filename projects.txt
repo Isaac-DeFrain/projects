@@ -1,8 +1,8 @@
-# repo	display_title	extra_description (optional second blockquote line)
+# repo	display_title	extra (optional second blockquote line)
 scotus-helper	SCOTUS helper
 blog	Blog	I also deploy this app on GitHub Pages as my personal blog.
 TLAplusFun	Fun with TLA+
-pinocchio	Pinnochio reference implementation
+pinocchio	Pinnochio
 github-reporting-py	GitHub reporting
 model-based-trace-checking	Model-based trace checking
 bft-specs	BFT specs
