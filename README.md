@@ -47,9 +47,7 @@ Smart Contract & Formal Verifictaion Engineer
 - [Website](https://scotus-helper.com)
 - [Source code](https://github.com/Isaac-DeFrain/scotus-helper)
 
-<p align="center">
 <img src="https://opengraph.githubassets.com/e1a47d64284e2918fbda0f0f92d7f20c8009630415ba493bbd13829faa0acb18/Isaac-DeFrain/scotus-helper" width="50%" alt="SCOTUS helper" />
-</p>
 
 ### Blog
 
@@ -60,9 +58,7 @@ Smart Contract & Formal Verifictaion Engineer
 - [Website](https://blog.isaacdefrain.com)
 - [Source code](https://github.com/Isaac-DeFrain/blog)
 
-<p align="center">
 <img src="https://opengraph.githubassets.com/2bf39e10d6ff86bdf564f99b3d77f4154cd7ef391326bbabfdec690d0265c177/Isaac-DeFrain/blog" width="50%" alt="Blog" />
-</p>
 
 ### Fun with TLA+
 
@@ -70,9 +66,7 @@ Smart Contract & Formal Verifictaion Engineer
 
 - [Source code](https://github.com/Isaac-DeFrain/TLAplusFun)
 
-<p align="center">
 <img src="https://opengraph.githubassets.com/2ca5916a3fae52453a73e28b1e7d185b0676eb0b16bdcae608c838d114de7e7b/Isaac-DeFrain/TLAplusFun" width="50%" alt="Fun with TLA+" />
-</p>
 
 ### Pinnochio reference implementation
 
@@ -80,9 +74,7 @@ Smart Contract & Formal Verifictaion Engineer
 
 - [Source code](https://github.com/Isaac-DeFrain/pinocchio)
 
-<p align="center">
 <img src="https://opengraph.githubassets.com/496a0f1d98ffb757921ab91d16f1dd88f1857fe4415ffb742a2afaaadfc5d4f0/Isaac-DeFrain/pinocchio" width="50%" alt="Pinnochio reference implementation" />
-</p>
 
 ### GitHub reporting
 
@@ -91,9 +83,7 @@ Smart Contract & Formal Verifictaion Engineer
 - [Website](https://michaelcurrin.github.io/github-reporting-py)
 - [Source code](https://github.com/Isaac-DeFrain/github-reporting-py)
 
-<p align="center">
 <img src="https://opengraph.githubassets.com/e2effba13c9fab7869d5129bdc841eeb6ad54fd57edba3497c8fc947bc3dadb5/Isaac-DeFrain/github-reporting-py" width="50%" alt="GitHub reporting" />
-</p>
 
 ### Model-based trace checking
 
@@ -101,9 +91,7 @@ Smart Contract & Formal Verifictaion Engineer
 
 - [Source code](https://github.com/Isaac-DeFrain/model-based-trace-checking)
 
-<p align="center">
 <img src="https://opengraph.githubassets.com/db137336e64b07c4e95f9dc91214e576887d27867462253a09e0750273523baa/Isaac-DeFrain/model-based-trace-checking" width="50%" alt="Model-based trace checking" />
-</p>
 
 ### BFT specs
 
@@ -111,8 +99,6 @@ Smart Contract & Formal Verifictaion Engineer
 
 - [Source code](https://github.com/Isaac-DeFrain/bft-specs)
 
-<p align="center">
 <img src="https://opengraph.githubassets.com/b054559eae40d64fdde71de6a1be8ef1365f9940b726474a83cfe42eec45afdb/Isaac-DeFrain/bft-specs" width="50%" alt="BFT specs" />
-</p>
 
 <!-- personal-projects:end -->

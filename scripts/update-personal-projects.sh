@@ -57,7 +57,7 @@ done < "$metadata_file"
     printf -- '- [Source code](https://github.com/%s/%s)\n\n' "$owner" "$repo"
 
     if [[ -n "$og_url" ]]; then
-      printf '<p align="center">\n<img src="%s" width="50%%" alt="%s" />\n</p>\n\n' "$og_url" "$title"
+      printf '<img src="%s" width="50%%" alt="%s" />\n\n' "$og_url" "$title"
     fi
   done
 } < "$projects_file" > "$section_file"
