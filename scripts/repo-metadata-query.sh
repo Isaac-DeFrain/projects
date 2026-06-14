@@ -13,18 +13,16 @@ for repo in "${repos[@]}"; do
   metadata="$(gh api graphql -f owner="$owner" -f name="$repo" -f query='
     query($owner: String!, $name: String!) {
       repository(owner: $owner, name: $name) {
-        description
         homepageUrl
         openGraphImageUrl
       }
     }
   ')"
 
-  description="$(jq -r '.data.repository.description // empty' <<< "$metadata")"
   homepage="$(jq -r '.data.repository.homepageUrl // empty' <<< "$metadata")"
   og_url="$(jq -r '.data.repository.openGraphImageUrl // empty' <<< "$metadata")"
 
-  printf '%s\t%s\t%s\t%s\n' "$repo" "$description" "$homepage" "$og_url" >> "$output_file"
+  printf '%s\t%s\t%s\n' "$repo" "$homepage" "$og_url" >> "$output_file"
 done
 
 echo "Wrote ${#repos[@]} entries to ${output_file}" >&2
