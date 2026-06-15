@@ -4,34 +4,74 @@ I have an insatiable passion for learning about and building open source, decent
 
 ## Paid Projects
 
-### LayerZero Labs (Ethereum, Starknet), Jun 2025 - Oct 2025
+### [LayerZero Labs](https://github.com/LayerZero-Labs) ([Ethereum](https://ethereum.org/), [Starknet](https://www.starknet.io/)), Jun 2025 - Oct 2025
 
-_Senior Protocol Engineer_
+__Senior Protocol Engineer__
 
-> TODO description of role/responsibilities
+_Main projects_
 
-### Granola Systems (Mina Protocol), Dec 2022 - June 2025
+- [Omnichain messaginig protocol for Starknet (Cairo)](https://docs.layerzero.network/v2/developers/starknet/oapp/overview)
+- [OFTs](https://docs.layerzero.network/v2/developers/evm/oft/quickstart)
 
-_Senior Software & Security Engineer_
+_Responsibilities_
 
-> TODO description of role/responsibilities
+- Implemented [LayerZero omnichain messaging protocol](https://docs.layerzero.network/v2/concepts/getting-started/what-is-layerzero) in [Cairo](https://www.cairo-lang.org/) ([Zellic](https://www.zellic.io/)/[Ottersec](https://osec.io/) audited)
+- Implemented [Starknet wBTC and SolvBTC OFTs (Omnichain Fungible Tokens)](https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/) in Cairo
+- Deployed and wired Solidity/Cairo [messaging protocol endpoint contracts](https://docs.layerzero.network/v2/deployments/deployed-contracts)
+- End-to-end unit, integration, and fuzz tested Cairo endpoint contracts
+- Integrated [Cursor](https://cursor.com/agents)/AI into my workflow for increased productivity
 
-### Viable Systems (Tezos), Dec 2020 - Mar 2022
+### [Granola](https://granola.team/) ([Mina Protocol](https://minaprotocol.com/)), Dec 2022 - June 2025
 
-_Formal Verification Engineer_
+__Senior Software & Security Engineer__
 
-> TODO description of role/responsibilities
+_Main projects_
+
+- [mina-indexer](https://github.com/Granola-Team/mina-indexer) - A GraphQL-enabled indexer of the Mina blockchain
+- [abstract-engine](https://github.com/MinaFoundation/mina/tree/abstract_engine) - node/network integration testing framework
+- [minimina](https://github.com/MinaFoundation/minimina) - A powerful tool for local development and integration testing of Mina networks
+- [go-mplex DDoS protection](https://github.com/Isaac-DeFrain/go-mplex/commit/2a173fb6a73a9d03a31390809ae2dca4c2e4b8f8)
+- [Mina daemon improvements](https://github.com/MinaProtocol/mina/pull/13258)
+
+_Responsibilities_
+
+- Architected and implemented performant blockchain indexer for Mina Protocol
+- Created generic integration testing harness using docker compose
+- Fixed critical go-libp2p go-mplex DDoS vulnerability without requiring hard fork
+- Led security/QA investigations targeting [release of Mina zkApps update](https://github.com/MinaProtocol/mina/discussions/15715) - [zkApps incentivized testnet](https://github.com/Granola-Team/zkapps-itn)
+- Added local precomputed block logging and other UX features to Mina daemon supporting Mina Indexer
+
+### [Viable Systems](https://github.com/viable-systems) ([Tezos](https://tezos.com/)), Dec 2020 - Mar 2022
+
+__Formal Verification Engineer__
+
+_Main projects_
+
+- [TLA+ specifications](https://github.com/tezedge/tezedge-specification)
+- [tezedge](https://github.com/tezedge/tezedge) - Tezos node rust implementation
+
+_Responsibilities_
+
+- Specified and verified Emmy/Tenderbake consensus, P2P protocols, task schedulers [TLA+](https://github.com/tlaplus/tlaplus) specifications
+- Translated TLA+ specs into rust implementations for TezEdge
+- Built liveness-checking and node-debugger proofs of concept
 
 ### [RChain Cooperative (RChain)](https://github.com/rchain), Dec 2018 - Mar 2020, Jul 2022 - Sep 2022
 
-_Smart Contract & Formal Verifictaion Engineer_
+__Smart Contract & Formal Verifictaion Engineer__
 
-> TODO description of role/responsibilities
+_Main projects_
 
-- Implemented proof of stake consensus based on GHOST
+- [K Framework formal specification of Rholang smart contract language](https://github.com/Isaac-DeFrain/KFramework/tree/master/Languages/GroundedRho)
+- [Consensus smart contracts](https://github.com/rchain/rchain/tree/dev/casper/src/main/resources)
+- [Consensus formal verification](https://github.com/Isaac-DeFrain/TLAplusFun/tree/main/Casper)
+
+_Responsibilities_
+
+- Implemented proof of stake consensus based on [GHOST](https://blog.nomos.tech/the-ghost-fork-choice-rule-and-why-nomos-doesnt-use-it/)
 - Implemented dynamically dispatchable smart contracts
-- Specified and verified K Framework specification of Rholang smart contract language
-- Specified and verified TLA+ specification of CBC Casper consensus
+- Specified and verified [K Framework](https://github.com/runtimeverification) specification of [Rholang](https://github.com/rchain/rchain)
+- Specified and verified TLA+ specification of [CBC Casper consensus](https://github.com/cbc-casper/cbc-casper-paper)
 
 ---
 
