@@ -1,0 +1,21 @@
+title: Isaac DeFrain's Projects
+description: Open source, decentralized, and formally verified zero-knowledge blockchain protocols.
+url: https://projects.isaacdefrain.com
+
+exclude:
+  - scripts/
+  - flake.nix
+  - flake.lock
+  - Makefile
+  - projects.txt
+  - repos.txt
+  - README.md
+  - .envrc
+  - .repo-metadata
+  - .og-image-urls
+  - .markdownlint.json
+  - .gitignore
+
+markdown: kramdown
+kramdown:
+  input: GFM

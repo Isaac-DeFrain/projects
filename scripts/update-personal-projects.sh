@@ -77,3 +77,5 @@ awk -v section_file="$section_file" '
 
 mv "${readme}.tmp" "$readme"
 echo "Updated personal projects section in ${readme}" >&2
+
+"${script_dir}/sync-jekyll-index.sh"
