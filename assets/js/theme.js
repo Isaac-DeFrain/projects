@@ -3,7 +3,9 @@
   var root = document.documentElement;
 
   function getSystemTheme() {
-    return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    return window.matchMedia("(prefers-color-scheme: dark)").matches
+      ? "dark"
+      : "light";
   }
 
   function getStoredTheme() {
@@ -45,11 +47,13 @@
 
   applyTheme(getStoredTheme());
 
-  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function () {
-    if (!getStoredTheme()) {
-      applyTheme(null);
-    }
-  });
+  window
+    .matchMedia("(prefers-color-scheme: dark)")
+    .addEventListener("change", function () {
+      if (!getStoredTheme()) {
+        applyTheme(null);
+      }
+    });
 
   document.addEventListener("DOMContentLoaded", function () {
     var toggle = document.getElementById("theme-toggle");
