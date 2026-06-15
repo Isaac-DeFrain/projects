@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD013 MD033 MD036 -->
-
 # Isaac DeFrain's Projects
 
 I have an insatiable passion for learning about and building open source, decentralized, and formally verified zero-knowledge blockchain protocols.
