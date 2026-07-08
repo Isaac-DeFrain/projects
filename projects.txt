@@ -1,5 +1,5 @@
 # repo	display_title	extra (optional second blockquote line)
-scotus-helper	SCOTUS helper
+scotus-helper	SCOTUS helper   I deploy this Next.js app automatically via VPS and CI/CD
 blog	Blog	I deploy this app via GitHub Pages as my personal blog.
 TLAplusFun	Fun with TLA+
 pinocchio	Pinnochio
