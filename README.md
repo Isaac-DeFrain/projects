@@ -76,12 +76,12 @@ _Responsibilities_
 ## Personal Projects
 
 <!-- personal-projects:start -->
-### SCOTUS helper
+### SCOTUS helper   I deploy this Next.js app automatically via VPS and CI/CD
 
 - [Website](https://scotus-helper.com)
 - [Source code](https://github.com/Isaac-DeFrain/scotus-helper)
 
-<img src="https://opengraph.githubassets.com/06ebd157d0f0c29cdff0c6a4c997c0fa68f0789e9aa41a94bd004a479ee60d4e/Isaac-DeFrain/scotus-helper" width="50%" alt="SCOTUS helper" />
+<img src="https://opengraph.githubassets.com/e0bad9a3b140296f1bc664580b05468a2dc22851a6d0ed82ab40a73a29db3692/Isaac-DeFrain/scotus-helper" width="50%" alt="SCOTUS helper   I deploy this Next.js app automatically via VPS and CI/CD" />
 
 ### Blog
 
@@ -90,7 +90,7 @@ _Responsibilities_
 - [Website](https://blog.isaacdefrain.com)
 - [Source code](https://github.com/Isaac-DeFrain/blog)
 
-<img src="https://opengraph.githubassets.com/2bf39e10d6ff86bdf564f99b3d77f4154cd7ef391326bbabfdec690d0265c177/Isaac-DeFrain/blog" width="50%" alt="Blog" />
+<img src="https://opengraph.githubassets.com/2084240eaf9278c576b77f084b6cccb29a6bee90062c55c9461da9d013a8d208/Isaac-DeFrain/blog" width="50%" alt="Blog" />
 
 ### Fun with TLA+
 
