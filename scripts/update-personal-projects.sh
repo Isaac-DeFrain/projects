@@ -13,6 +13,13 @@ og_width="50%"
 
 trap 'rm -f "$section_file"' EXIT
 
+trim() {
+  local s="$1"
+  s="${s#"${s%%[![:space:]]*}"}"
+  s="${s%"${s##*[![:space:]]}"}"
+  printf '%s' "$s"
+}
+
 if [[ ! -f "$metadata_file" ]]; then
   echo "Missing ${metadata_file}. Run ./scripts/repo-metadata-query.sh first." >&2
   exit 1
@@ -32,8 +39,12 @@ while IFS= read -r line || [[ -n "$line" ]]; do
 done < "$metadata_file"
 
 {
-  while IFS=$'\t' read -r repo title extra || [[ -n "${repo:-}" ]]; do
+  while IFS='|' read -r repo title extra || [[ -n "${repo:-}" ]]; do
     [[ -z "${repo:-}" || "$repo" =~ ^# ]] && continue
+
+    repo="$(trim "$repo")"
+    title="$(trim "$title")"
+    extra="$(trim "${extra:-}")"
 
     homepage="${homepages[$repo]:-}"
     og_url="${og_urls[$repo]:-}"
