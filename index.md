@@ -88,7 +88,7 @@ _Responsibilities_
 - [Website](https://scotus-helper.com)
 - [Source code](https://github.com/Isaac-DeFrain/scotus-helper)
 
-<img src="https://opengraph.githubassets.com/e0bad9a3b140296f1bc664580b05468a2dc22851a6d0ed82ab40a73a29db3692/Isaac-DeFrain/scotus-helper" width="50%" alt="SCOTUS helper" />
+<img src="https://opengraph.githubassets.com/ef3ac15b59f3242dcfeb6ab29b02aa4cc114fd0e2d45fecc5e4b9d0c54db35a4/Isaac-DeFrain/scotus-helper" width="50%" alt="SCOTUS helper" />
 
 ### Blog
 
@@ -97,7 +97,7 @@ _Responsibilities_
 - [Website](https://blog.isaacdefrain.com)
 - [Source code](https://github.com/Isaac-DeFrain/blog)
 
-<img src="https://opengraph.githubassets.com/2084240eaf9278c576b77f084b6cccb29a6bee90062c55c9461da9d013a8d208/Isaac-DeFrain/blog" width="50%" alt="Blog" />
+<img src="https://opengraph.githubassets.com/f0b013e8cbb5208f8095ff144f54c7f95a179c115ea690f7a44c9756ea6b7f86/Isaac-DeFrain/blog" width="50%" alt="Blog" />
 
 ### Fun with TLA+
 
