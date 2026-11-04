@@ -1,4 +1,4 @@
-> I have an insatiable passion for learning about and building open source, decentralized, and formally verified zero-knowledge blockchain protocols.
+> I have an insatiable passion for learning about and building open source, decentralized, and formally verified software.
 
 ## Paid Projects
 
