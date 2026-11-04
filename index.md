@@ -24,7 +24,7 @@ _Responsibilities_
 - End-to-end unit, integration, and fuzz tested Cairo endpoint contracts
 - Integrated [Cursor](https://cursor.com/agents)/AI into my workflow for increased productivity
 
-### [Granola](https://granola.team/) ([Mina Protocol](https://minaprotocol.com/)), Dec 2022 - June 2025
+### [Granola](https://granola.team/) ([Mina Protocol](https://minaprotocol.com/)), Dec 2022 - Jun 2025
 
 __Senior Software & Security Engineer__
 
@@ -88,7 +88,7 @@ _Responsibilities_
 - [Website](https://scotus-helper.com)
 - [Source code](https://github.com/Isaac-DeFrain/scotus-helper)
 
-<img src="https://opengraph.githubassets.com/ef3ac15b59f3242dcfeb6ab29b02aa4cc114fd0e2d45fecc5e4b9d0c54db35a4/Isaac-DeFrain/scotus-helper" width="50%" alt="SCOTUS helper" />
+<img src="https://opengraph.githubassets.com/38ccbfd8eedbc6401b04d1128142b6db305359e907988c3e2b5c90e74d1bae91/Isaac-DeFrain/scotus-helper" width="50%" alt="SCOTUS helper" />
 
 ### Blog
 
@@ -97,7 +97,7 @@ _Responsibilities_
 - [Website](https://blog.isaacdefrain.com)
 - [Source code](https://github.com/Isaac-DeFrain/blog)
 
-<img src="https://opengraph.githubassets.com/f0b013e8cbb5208f8095ff144f54c7f95a179c115ea690f7a44c9756ea6b7f86/Isaac-DeFrain/blog" width="50%" alt="Blog" />
+<img src="https://opengraph.githubassets.com/db691db55e63442d0338dc2e8c9e7bb3c25ee9633c73d51ace347627ac54899f/Isaac-DeFrain/blog" width="50%" alt="Blog" />
 
 ### Fun with TLA+
 
