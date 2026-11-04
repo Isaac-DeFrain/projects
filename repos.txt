@@ -1,5 +1,6 @@
 scotus-helper
 blog
+learn-lean
 TLAplusFun
 pinocchio
 github-reporting-py

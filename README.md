@@ -78,7 +78,7 @@ _Responsibilities_
 <!-- personal-projects:start -->
 ### SCOTUS helper
 
-> I deploy this Next.js app automatically via VPS and CI/CD
+> I deploy this Next.js app automatically via Hetzner VPS and GitHub Actions.
 
 - [Website](https://scotus-helper.com)
 - [Source code](https://github.com/Isaac-DeFrain/scotus-helper)
@@ -93,6 +93,14 @@ _Responsibilities_
 - [Source code](https://github.com/Isaac-DeFrain/blog)
 
 <img src="https://opengraph.githubassets.com/db691db55e63442d0338dc2e8c9e7bb3c25ee9633c73d51ace347627ac54899f/Isaac-DeFrain/blog" width="50%" alt="Blog" />
+
+### Learn Lean
+
+> Follow me as I learn lean 4.
+
+- [Source code](https://github.com/Isaac-DeFrain/learn-lean)
+
+<img src="https://opengraph.githubassets.com/20d39e4c76d63f343dcb308a95b2ae47a0c09ed0f6b50f87098b5e1855b109ee/Isaac-DeFrain/learn-lean" width="50%" alt="Learn Lean" />
 
 ### Fun with TLA+
 

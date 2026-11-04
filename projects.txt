@@ -1,6 +1,7 @@
 # repo | display_title | extra (optional second blockquote line)
-scotus-helper | SCOTUS helper | I deploy this Next.js app automatically via VPS and CI/CD
+scotus-helper | SCOTUS helper | I deploy this Next.js app automatically via Hetzner VPS and GitHub Actions.
 blog | Blog | I deploy this app via GitHub Pages as my personal blog.
+learn-lean | Learn Lean | Follow me as I learn lean 4.
 TLAplusFun | Fun with TLA+
 pinocchio | Pinnochio
 github-reporting-py | GitHub reporting
